@@ -2,3 +2,4 @@
 
 Hellow World!!
 
+![This is my favourite animal](./images/British_Shorthair.webp)
